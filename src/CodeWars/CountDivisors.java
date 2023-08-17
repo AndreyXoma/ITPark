@@ -1,4 +1,4 @@
-package Lesson1;
+package CodeWars;
 
 import java.util.Scanner;
 import java.util.stream.IntStream;
